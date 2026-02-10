@@ -101,19 +101,19 @@ Bir güzellik salonunun internet üzerindeki dijital varlığını sıfırdan ol
 
 
 ### Google Maps Profil
-https://github.com/user-attachments/assets/a5590ea1-4fcd-4146-921c-9fdb4950469d
 
+![WhatsApp Image 2026-02-11 at 00 37 06](https://github.com/user-attachments/assets/306b7fcf-c874-4a74-bea0-082cfee57b3f)
 
 
 ### Google Maps İşletme İstatistikleri
-https://github.com/user-attachments/assets/1f1afacb-4b1b-457f-b70f-4c1d81d3492b
-https://github.com/user-attachments/assets/4b2fc3a0-0fa4-420c-a567-02859b2be134
-https://github.com/user-attachments/assets/8a9e04b6-be56-4d94-9cac-86b7fc361c22
+![WhatsApp Image 2026-02-11 at 00 41 04](https://github.com/user-attachments/assets/0923fc23-27db-4b9a-a3dc-4cd3d1d776ee)
+![WhatsApp Image 2026-02-11 at 00 40 46](https://github.com/user-attachments/assets/f1ccf204-c414-435b-940f-2a69c02ea343)
+![WhatsApp Image 2026-02-11 at 00 40 27](https://github.com/user-attachments/assets/30574295-bd65-4254-91ff-52a0486322d9)
 
 
 ### Broşür Tasarımı
-https://github.com/user-attachments/assets/5c6b10cf-e56a-48fa-885c-917c2fd7c3a1
 
+![WhatsApp Image 2026-02-11 at 00 44 44](https://github.com/user-attachments/assets/12ee3b5e-b0a2-4fdd-abcb-81656672c4bd)
 
 
 ---
