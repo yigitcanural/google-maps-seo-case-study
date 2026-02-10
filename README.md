@@ -14,13 +14,13 @@ Bir güzellik salonunun internet üzerindeki dijital varlığını sıfırdan ol
 | Google Maps Puanı | ⭐ 4.9 / 5.0 |
 | Google 1. Sıra Anahtar Kelime Sayısı | 10+ (Manavgat & Side bölgesi) |
 | Platformlar | Google Maps, TripAdvisor, Yandex, Instagram |
-| Hedef Diller | 🇹🇷 Türkçe · ��🇧 İngilizce · 🇩🇪 Almanca · 🇷🇺 Rusça |
+| Hedef Diller | Türkçe · İngilizce · Almanca · Rusça |
 
 ---
 
 ## 🔍 Anahtar Kelime Sıralamaları
 
-### 🇹🇷 Türkçe
+### Türkçe
 | Anahtar Kelime | Google Sırası |
 |----------------|:------------:|
 | manavgat tırnak | 🥇 1. sıra |
@@ -28,19 +28,19 @@ Bir güzellik salonunun internet üzerindeki dijital varlığını sıfırdan ol
 | side tırnak | 🥇 1. sıra |
 | side nail art | 🥇 1. sıra |
 
-### 🇩🇪 Almanca
+### Almanca
 | Anahtar Kelime | Google Sırası |
 |----------------|:------------:|
 | manavgat nagelstudio | 🥇 1. sıra |
 | side nagelstudio | 🥇 1. sıra |
 
-### ��🇧 İngilizce
+### İngilizce
 | Anahtar Kelime | Google Sırası |
 |----------------|:------------:|
 | manavgat nail salon | 🥇 1. sıra |
 | side nail salon | 🥇 1. sıra |
 
-### 🇷🇺 Rusça
+### Rusça
 | Anahtar Kelime | Google Sırası |
 |----------------|:------------:|
 | Манавгат маникюр | 🥇 1. sıra |
@@ -77,10 +77,10 @@ Bir güzellik salonunun internet üzerindeki dijital varlığını sıfırdan ol
 - 📍 Konum etiketleri doğru şekilde ayarlandı
 
 ### 5. Çok Dilli SEO
-- 🇹🇷 Türkçe anahtar kelime optimizasyonu
-- 🇬🇧 İngilizce anahtar kelime optimizasyonu (Uluslararası turist hedefli)
-- 🇩🇪 Almanca anahtar kelime optimizasyonu (Alman turist hedefli)
-- 🇷🇺 Rusça anahtar kelime optimizasyonu (Rus turist hedefli)
+- Türkçe anahtar kelime optimizasyonu
+- İngilizce anahtar kelime optimizasyonu (Uluslararası turist hedefli)
+- Almanca anahtar kelime optimizasyonu (Alman turist hedefli)
+- Rusça anahtar kelime optimizasyonu (Rus turist hedefli)
 
 ### 6. Broşür Tasarımı
 - Modern ve profesyonel QR kodlu broşür tasarlandı
@@ -95,17 +95,20 @@ Bir güzellik salonunun internet üzerindeki dijital varlığını sıfırdan ol
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/598e32b7-dfc9-4a04-ba17-3bad44caa4f2" width="300"/>
-  &nbsp;&nbsp;
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/0772a8d0-3dc8-4f30-91a4-2164c2cfec22" width="300"/>
-  &nbsp;&nbsp;
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/2d221712-ebcc-42be-8d0b-496aa4b764d5" width="300"/>
 </p>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f20442a6-5756-45f7-ad23-2328c0fae93e" width="300"/>
-  &nbsp;&nbsp;
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/d92a0ef0-8de8-4eb5-81b5-1b287f3acf3b" width="300"/>
-  &nbsp;&nbsp;
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/10dc7d84-2253-43da-b285-44a9f617907a" width="300"/>
 </p>
 
@@ -119,9 +122,11 @@ Bir güzellik salonunun internet üzerindeki dijital varlığını sıfırdan ol
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0923fc23-27db-4b9a-a3dc-4cd3d1d776ee" width="300"/>
-  &nbsp;&nbsp;
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/f1ccf204-c414-435b-940f-2a69c02ea343" width="300"/>
-  &nbsp;&nbsp;
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/30574295-bd65-4254-91ff-52a0486322d9" width="300"/>
 </p>
 
