@@ -93,46 +93,46 @@ Bir güzellik salonunun internet üzerindeki dijital varlığını sıfırdan ol
 
 ### Google Arama Sonuçları
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/598e32b7-dfc9-4a04-ba17-3bad44caa4f2" width="300"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/0772a8d0-3dc8-4f30-91a4-2164c2cfec22" width="300"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/2d221712-ebcc-42be-8d0b-496aa4b764d5" width="300"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/f20442a6-5756-45f7-ad23-2328c0fae93e" width="300"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/d92a0ef0-8de8-4eb5-81b5-1b287f3acf3b" width="300"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/10dc7d84-2253-43da-b285-44a9f617907a" width="300"/>
 </p>
 
 ### Google Maps Profil
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/306b7fcf-c874-4a74-bea0-082cfee57b3f" width="400"/>
 </p>
 
 ### Google Maps İşletme İstatistikleri
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/0923fc23-27db-4b9a-a3dc-4cd3d1d776ee" width="300"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/f1ccf204-c414-435b-940f-2a69c02ea343" width="300"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/30574295-bd65-4254-91ff-52a0486322d9" width="300"/>
 </p>
 
 ### Broşür Tasarımı
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/12ee3b5e-b0a2-4fdd-abcb-81656672c4bd" width="400"/>
 </p>
 
