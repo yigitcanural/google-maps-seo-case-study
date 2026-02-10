@@ -14,7 +14,7 @@ Bir güzellik salonunun internet üzerindeki dijital varlığını sıfırdan ol
 | Google Maps Puanı | ⭐ 4.9 / 5.0 |
 | Google 1. Sıra Anahtar Kelime Sayısı | 10+ (Manavgat & Side bölgesi) |
 | Platformlar | Google Maps, TripAdvisor, Yandex, Instagram |
-| Hedef Diller | 🇹🇷 Türkçe · �🇧 İngilizce · �🇩🇪 Almanca · 🇷🇺 Rusça |
+| Hedef Diller | 🇹🇷 Türkçe · ��🇧 İngilizce · 🇩🇪 Almanca · 🇷🇺 Rusça |
 
 ---
 
@@ -34,13 +34,13 @@ Bir güzellik salonunun internet üzerindeki dijital varlığını sıfırdan ol
 | manavgat nagelstudio | 🥇 1. sıra |
 | side nagelstudio | 🥇 1. sıra |
 
-### �🇧 İngilizce
+### ��🇧 İngilizce
 | Anahtar Kelime | Google Sırası |
 |----------------|:------------:|
 | manavgat nail salon | 🥇 1. sıra |
 | side nail salon | 🥇 1. sıra |
 
-### �🇷🇺 Rusça
+### 🇷🇺 Rusça
 | Anahtar Kelime | Google Sırası |
 |----------------|:------------:|
 | Манавгат маникюр | 🥇 1. sıra |
@@ -71,18 +71,18 @@ Bir güzellik salonunun internet üzerindeki dijital varlığını sıfırdan ol
 - 💬 Yorumlara SEO uyumlu yanıtlar verildi
 - 🌍 Gelen turistlerden kendi dillerinde Google Maps yorumu yazmaları sağlandı
 
-### 5. Instagram SEO Optimizasyonu
+### 4. Instagram SEO Optimizasyonu
 - 📸 Reels açıklamaları SEO uyumlu şekilde düzenlendi
 - 📝 Biyografi SEO'ya uygun anahtar kelimelerle optimize edildi
 - 📍 Konum etiketleri doğru şekilde ayarlandı
 
-### 6. Çok Dilli SEO
+### 5. Çok Dilli SEO
 - 🇹🇷 Türkçe anahtar kelime optimizasyonu
 - 🇬🇧 İngilizce anahtar kelime optimizasyonu (Uluslararası turist hedefli)
 - 🇩🇪 Almanca anahtar kelime optimizasyonu (Alman turist hedefli)
 - 🇷🇺 Rusça anahtar kelime optimizasyonu (Rus turist hedefli)
 
-### 5. Broşür Tasarımı
+### 6. Broşür Tasarımı
 - Modern ve profesyonel QR kodlu broşür tasarlandı
 - Google Maps yorum sayfasına yönlendiren QR kod eklendi
 - Bastırılarak salonda dağıtıma alındı
@@ -92,29 +92,44 @@ Bir güzellik salonunun internet üzerindeki dijital varlığını sıfırdan ol
 ## 📸 Görseller
 
 ### Google Arama Sonuçları
-![WhatsApp Image 2026-02-11 at 00 33 12](https://github.com/user-attachments/assets/598e32b7-dfc9-4a04-ba17-3bad44caa4f2)
-![WhatsApp Image 2026-02-11 at 00 32 12](https://github.com/user-attachments/assets/0772a8d0-3dc8-4f30-91a4-2164c2cfec22)
-![WhatsApp Image 2026-02-11 at 00 32 11](https://github.com/user-attachments/assets/2d221712-ebcc-42be-8d0b-496aa4b764d5)
-![WhatsApp Image 2026-02-11 at 00 31 39](https://github.com/user-attachments/assets/f20442a6-5756-45f7-ad23-2328c0fae93e)
-![WhatsApp Image 2026-02-11 at 00 30 58](https://github.com/user-attachments/assets/d92a0ef0-8de8-4eb5-81b5-1b287f3acf3b)
-![WhatsApp Image 2026-02-11 at 00 29 54](https://github.com/user-attachments/assets/10dc7d84-2253-43da-b285-44a9f617907a)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/598e32b7-dfc9-4a04-ba17-3bad44caa4f2" width="300"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/0772a8d0-3dc8-4f30-91a4-2164c2cfec22" width="300"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/2d221712-ebcc-42be-8d0b-496aa4b764d5" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f20442a6-5756-45f7-ad23-2328c0fae93e" width="300"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/d92a0ef0-8de8-4eb5-81b5-1b287f3acf3b" width="300"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/10dc7d84-2253-43da-b285-44a9f617907a" width="300"/>
+</p>
 
 ### Google Maps Profil
 
-![WhatsApp Image 2026-02-11 at 00 37 06](https://github.com/user-attachments/assets/306b7fcf-c874-4a74-bea0-082cfee57b3f)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/306b7fcf-c874-4a74-bea0-082cfee57b3f" width="400"/>
+</p>
 
 ### Google Maps İşletme İstatistikleri
-![WhatsApp Image 2026-02-11 at 00 41 04](https://github.com/user-attachments/assets/0923fc23-27db-4b9a-a3dc-4cd3d1d776ee)
-![WhatsApp Image 2026-02-11 at 00 40 46](https://github.com/user-attachments/assets/f1ccf204-c414-435b-940f-2a69c02ea343)
-![WhatsApp Image 2026-02-11 at 00 40 27](https://github.com/user-attachments/assets/30574295-bd65-4254-91ff-52a0486322d9)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0923fc23-27db-4b9a-a3dc-4cd3d1d776ee" width="300"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f1ccf204-c414-435b-940f-2a69c02ea343" width="300"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/30574295-bd65-4254-91ff-52a0486322d9" width="300"/>
+</p>
 
 ### Broşür Tasarımı
 
-![WhatsApp Image 2026-02-11 at 00 44 44](https://github.com/user-attachments/assets/12ee3b5e-b0a2-4fdd-abcb-81656672c4bd)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/12ee3b5e-b0a2-4fdd-abcb-81656672c4bd" width="400"/>
+</p>
 
 ---
 
@@ -126,9 +141,6 @@ Bir güzellik salonunun internet üzerindeki dijital varlığını sıfırdan ol
 4. **Düzenli güncelleme önemli** — Fotoğraf ve hizmet güncellemeleri Google'ın işletmeye verdiği önemi artırıyor
 
 ---
-
-
-
 
 ## 👤 Hakkımda
 
